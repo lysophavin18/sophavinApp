@@ -1,2 +1,2 @@
 # sophavinApp
-This my fucking app
+this my fist app
